@@ -1,7 +1,7 @@
 # Sudoku Solver
 **Authors:** Pauline De Baets, Mio Kobayashi, Fatima Al Aridhee
 
-**Date: ** Autumn 2022
+**Date:** Autumn 2022
 
 ## Description
 
