@@ -1,5 +1,8 @@
 # Sudoku Solver
 **Authors:** Pauline De Baets, Mio Kobayashi, Fatima Al Aridhee
+
+**Date: ** Autumn 2022
+
 ## Description
 
 This project is a Python Sudoku solver. The goal of the program is to take an incomplete Sudoku grid, solve it automatically, and display the completed grid.
